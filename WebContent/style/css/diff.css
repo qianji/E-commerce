@@ -1,0 +1,35 @@
+.newArticle {
+	width: 228px;
+	height: 172px;
+	margin-bottom: 10px;
+	overflow: hidden;
+	border: solid 1px #e4e4e4;
+}
+
+.newArticle .tab {
+	width: 300px;
+	height: 30px;
+	background-color: #f1f1f1;
+}
+
+.newArticle .tab li {
+	width: 76px;
+	height: 30px;
+	line-height: 30px;
+	float: left;	
+	text-align: center;
+	overflow: hidden;
+	border-right: solid 1px #e4e4e4;
+}
+
+.newArticle .tab li.current {
+	background-color: #ffffff;
+}
+
+.newArticle .tabContent {
+	padding: 6px;
+}
+
+.newArticle .tabContent li {
+	line-height: 26px;
+}

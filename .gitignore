@@ -1,0 +1,15 @@
+# ignore all class
+*.class
+*.classpath
+
+# vim 
+*.swl
+*.swm
+*.swn
+*.swo
+*.swp
+
+# jar
+*.jar
+META-INF/
+build/
